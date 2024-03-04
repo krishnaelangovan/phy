@@ -24,9 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Krishna"
   pronouns         : # example: "she/her"  
-  bio              : |-"BTech Engineering Physics
+  bio              : |-
+                      BTech Engineering Physics
   
-                      MS Solid State Physics"
+                      MS Solid State Physics
   location         : "India"
   employer         : "IIST"
   uri              : # URL 
