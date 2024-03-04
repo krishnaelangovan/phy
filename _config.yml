@@ -12,9 +12,9 @@ title                    : "Home page"
 title_separator          : "-"
 name                     : &name "Krishna"
 description              : &description "personal description"
-url                      : https://krishnaelangovan/phy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://krishnaelangovan.github.io/phy # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "krishnaelangovan/phy.github.io"
+repository               : "krishnaelangovan/phy"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Krishna"
   pronouns         : # example: "she/her"  
-  bio              : "BTech Engineering Physics \\n MS Solid State Physics"
+  bio              : "BTech Engineering Physics MS Solid State Physics"
   location         : "India"
   employer         : "IIST"
   uri              : # URL
