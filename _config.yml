@@ -29,7 +29,7 @@ author:
                       
   location         : "India"
   employer         : "Indian Institue of Space Science <br> and Technology, Thiruvananthapuram"
-  url              : "https://www.iist.ac.in/" 
+  uri              : "https://www.iist.ac.in/" 
   email            : "krishna.e2001@gmail.com" 
 
   # Academic websites
