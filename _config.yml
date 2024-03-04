@@ -21,14 +21,14 @@ repository               : "krishnaelangovan/phy"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Krishna"
   pronouns         : # example: "she/her"  
-  bio              : "BTech Engineering Physics <br> MS Solid State Physics"
+  bio              : "MS Solid State Physics <br> BTech Engineering Physics "
   
                       
   location         : "India"
-  employer         : "IIST"
+  employer         : "Indian Institue of Space Science and Technology, Thiruvananthapuram"
   uri              : # URL 
   email            : "krishna.e2001@gmail.com" 
 
