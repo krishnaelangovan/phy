@@ -16,5 +16,5 @@ Quantum metrology for testing collapse models
 
 For more info
 ------
-Contact [Linktree]("https://linktr.ee/krishnae2001/") 
-[Linkedin]("https://www.linkedin.com/in/krishnae2001/")
+Contact [Linktree](https://linktr.ee/krishnae2001/) 
+[Linkedin](https://www.linkedin.com/in/krishnae2001/)
