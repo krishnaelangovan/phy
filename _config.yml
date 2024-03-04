@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Krishna"
   pronouns         : # example: "she/her"  
-  bio              : "BTech Engineering Physics MS Solid State Physics"
+  bio              : "BTech Engineering Physics\n\n MS Solid State Physics"
   location         : "India"
   employer         : "IIST"
   uri              : # URL
@@ -37,6 +37,7 @@ author:
   # orcid            : "http://orcid.org/yourorcidurl"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # researchgate     : # URL
+   linktree         : "https://linktr.ee/krishnae2001"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -71,7 +72,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
-  linktree         : "https://linktr.ee/krishnae2001"
+ 
 
 
 # Site Settings
