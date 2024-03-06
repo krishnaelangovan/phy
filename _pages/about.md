@@ -7,10 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-Masters project
+Projects
 ======
 
-Quantum metrology for testing collapse models
+  Masters project
+  ====
+
+  Quantum metrology for testing collapse models
+
+
+  Internship
+  ====
+
+  Entanglement distillation
 
 
 
