@@ -8,10 +8,12 @@ redirect_from:
 ---
 
 Projects
-======
+====
+
 Masters project
 ====
 Quantum metrology for testing collapse models
+
 Internship
 ====
 Entanglement Distillation of pure entangled states of photons via linear optics
